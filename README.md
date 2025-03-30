@@ -15,5 +15,5 @@ The Marvel Studios Gallery is a web project that brings together the mightiest h
 ## 🛠️ Technologies Used
 
 * **HTML5:** Provides the structural foundation of the gallery layout, ensuring semantic and accessible markup.
-* 
+ 
 * **CSS3:** Powers the styling and animations, delivering a visually appealing and dynamic user interface.
