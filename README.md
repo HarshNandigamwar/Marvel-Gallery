@@ -1,5 +1,6 @@
 ### 💥 Marvel Studios Gallery 💥
 - Dive into the thrilling world of Marvel superheroes with the **Marvel Studios Gallery**! This project offers a visually stunning and interactive experience, showcasing iconic characters like Iron Man, Spider-Man, Hulk, Deadpool, and Captain America. Built with clean HTML and CSS, it's designed to captivate and inspire. 1 1 1 1
+- Dive into the thrilling world of Marvel superheroes with the **Marvel Studios Gallery**! This project offers a visually stunning and interactive experience, showcasing iconic characters like Iron Man, Spider-Man, Hulk, Deadpool, and Captain America. Built with clean HTML and CSS, it's designed to captivate and inspire. 1 1 1 1
 
 ![M0](./Images/m0.png)
 ---
